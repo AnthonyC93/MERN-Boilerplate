@@ -1,4 +1,5 @@
-<h2> 2 changes need to be made to complete connection to Express/MongoDB:</h2> 
+<h2> 2 changes need to be made to complete connection to Express/MongoDB:</h2>
+
     1. line 18 in server.js needs to have routes index added to middleware
     2. line 21 in server.js needs to be uncommented and the database name needs replace "dbNameHere"
 
@@ -26,4 +27,4 @@
 React Component Trigger --> API Functions File --> Corresponding Route file --> Corresponding Controller file which uses Mongoose Models
 
 
-**Some code was left in models and routes folders for reference in future projects**
+<h4>Note: Some code was left in models and routes folders for reference in future projects</h4>
