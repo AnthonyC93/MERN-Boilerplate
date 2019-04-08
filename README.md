@@ -1,3 +1,5 @@
+<h1>M.E.R.N. Stack Boilerplate</h1>
+
 <h2> 2 changes need to be made to complete connection to Express/MongoDB:</h2>
 
     1. line 18 in server.js needs to have routes index added to middleware
