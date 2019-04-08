@@ -1,5 +1,4 @@
-# project-3
+API Server calls traverse through:
 
-adding link to our project github
-https://gentle-garden-19053.herokuapp.com/
+React Component Trigger --> API Functions File --> Corresponding Route file --> Corresponding Controller file which uses Mongoose Models
 
